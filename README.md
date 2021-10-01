@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nardos Tsegaye
-- 👀 I’m interested in Software Deelopment
+- 👀 I’m interested in Software Development
 - 💞️ I’m looking to collaborate on React/Node/Express projects
 - 📫 You can reach me via my email tsegahin@gmail.com
 
