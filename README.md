@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nardos Tsegaye
 - 👀 I’m interested in Software Development
-- 💞️ I’m looking to collaborate on Flutter/Django projects
+- 💞️ I’m looking to collaborate on React, Node projects
 - 📫 You can reach me via my email tsegahin@gmail.com
 
 <!---
